@@ -1,3 +1,4 @@
 This project demonstrates Git version control.
 Tools used: Git and GitHub.
 Practical 2: Remote repository operations.
+Updated directly on GitHub for Practical 2.
