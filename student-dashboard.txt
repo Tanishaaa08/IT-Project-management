@@ -1,0 +1,2 @@
+Student Dashboard Feature
+This feature displays student details, attendance, and academic progress.
